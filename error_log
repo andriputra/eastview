@@ -1,0 +1,2 @@
+[08-Dec-2017 02:11:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 3200 bytes) in /home/eltaziky/project.eltaziky.com/eastview/wp-admin/includes/theme.php on line 260
+[13-Dec-2017 21:12:56 UTC] PHP Warning:  Error while sending QUERY packet. PID=450185 in /home/eltaziky/project.eltaziky.com/eastview/wp-includes/wp-db.php on line 1931
